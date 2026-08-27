@@ -203,3 +203,15 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 ---
 
 ⭐ If you find this repository useful, consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
