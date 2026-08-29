@@ -210,6 +210,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,4 +227,12 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
