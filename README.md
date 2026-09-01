@@ -210,6 +210,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -231,11 +232,13 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
