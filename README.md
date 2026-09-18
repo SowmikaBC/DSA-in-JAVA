@@ -228,6 +228,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
+| [2235-add-two-integers](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
