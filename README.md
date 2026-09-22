@@ -210,6 +210,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -238,6 +239,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -273,4 +275,8 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
