@@ -219,6 +219,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1572-matrix-diagonal-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,4 +280,8 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
