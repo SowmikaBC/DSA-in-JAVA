@@ -214,6 +214,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [0015-3sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
@@ -267,6 +268,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
