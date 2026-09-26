@@ -234,6 +234,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
@@ -288,4 +289,12 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1572-matrix-diagonal-sum) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
