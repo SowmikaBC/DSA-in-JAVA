@@ -227,6 +227,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -276,6 +277,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -293,6 +295,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
