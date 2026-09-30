@@ -220,6 +220,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
@@ -229,6 +230,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -262,6 +264,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [0075-sort-colors](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -302,4 +305,8 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0412-fizz-buzz) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
