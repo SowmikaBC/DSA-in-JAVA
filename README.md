@@ -240,6 +240,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
@@ -309,4 +310,8 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
