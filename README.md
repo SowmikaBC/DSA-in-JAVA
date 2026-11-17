@@ -219,6 +219,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [0088-merge-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0283-move-zeroes) |
+| [0904-fruit-into-baskets](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -231,6 +232,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -285,6 +287,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
