@@ -217,6 +217,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [0035-search-insert-position](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
@@ -258,6 +259,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -281,6 +283,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
