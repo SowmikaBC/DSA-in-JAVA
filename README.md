@@ -228,6 +228,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1672-richest-customer-wealth) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -291,6 +293,7 @@ If you're also learning DSA, feel free to explore and learn along with me! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SowmikaBC/DSA-in-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
